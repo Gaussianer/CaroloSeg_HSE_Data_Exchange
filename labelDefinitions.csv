@@ -1,6 +1,6 @@
 name,id,trainId,category,catId,hasInstances,ignoreInEval,color_r,color_g,color_b
 unlabeled,0,255,void,0,False,True,0,0,0
 road,1,0,void,0,False,False,128,64,218
-sidewalk,2,1,flat,1,False,False244,35,232
+sidewalk,2,1,flat,1,False,False,244,35,232
 building,3,2,construction,2,False,False,70,70,70
 license plate,-1,-1,vehicle,7,False,True,0,0,142
